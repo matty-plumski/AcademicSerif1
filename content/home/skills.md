@@ -15,22 +15,36 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
+  icon = "open-access"
+  icon_pack = "ai"
+  name = "Open Access"
+
+  
+[[feature]]
+  icon = "figshare"
+  icon_pack = "ai"
+  name = "Data Publishing" 
+  
+[[feature]]
+  icon = "dataverse"
+  icon_pack = "ai"
+  name = "Network Analysis"
+
+  [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Skill development"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  icon = "orcid"
+  icon_pack = "ai"
+  name = "Research Provenance"
+
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "stackoverflow"
+  icon_pack = "ai"
+  name = "Research Support"
+ 
 
 # Uncomment to use emoji icons.
 # [[feature]]
