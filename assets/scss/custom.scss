@@ -6,7 +6,7 @@ h3 {
   font-family: "Averia Serif Libre";
   font-weight: 400;
 }
-
+/* changed size of navigation menu */ 
 .dropdown-menu,
 nav#navbar-main li.nav-item {
   font-size: 1.2rem;
@@ -50,4 +50,8 @@ body {
 .navbar .navbar-nav .nav-link.active {
   font-weight: 400!important;
   color: #e6553c!important;
+}
+
+.tag-cloud {
+  text-transform: capitalize;
 }
