@@ -37,3 +37,8 @@ body {
 .navbar-brand {
   font-weight: 400;
 }
+
+.navbar .navbar-nav .nav-link.active {
+  font-weight: 400!important;
+  color: #e6553c!important;
+}
