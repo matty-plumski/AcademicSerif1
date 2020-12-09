@@ -23,3 +23,7 @@
 - CC licence
 - wikimedia commons
 - O Neharā https://onehera.waikato.ac.nz/nodes/browse
+
+# Other/demos
+
+- https://git.palladion.it/palladion/hugo-academic-theme/src/commit/c7ede46424078f4391836758e5718905453ef072/exampleSite/config.toml
