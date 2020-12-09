@@ -55,7 +55,7 @@ weight = 10  # Order that this section will appear.
 
 
 
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Image: Bogdan Dreava</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+<span style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules">Image: Bogdan Dreava</a></script></span>
 
-# https://thenounproject.com/bdreava/
+
 
