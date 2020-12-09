@@ -7,12 +7,13 @@
 - Git Hub Desktop
 - Text editor (visual studio code)
 
-# Documentation
+# Documentation/customisation
 
 - Wowchemy - https://wowchemy.com/docs/page-builder/
 - Git Repp
 - Lesly Mynt
 - Roll again: https://www.rollagain.net/post/adding-custom-icons-to-the-hugo-academic-theme/
+- https://isabella-b.com/blog/hugo-academic-customization/
 
 # Design
 
