@@ -55,3 +55,56 @@ body {
 .tag-cloud {
   text-transform: capitalize;
 }
+
+.card h4 {
+  font-weight: 400;
+}
+
+/* test import of iconmoon icons*/
+
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?uxjef0');
+  src:  url('fonts/icomoon.eot?uxjef0#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?uxjef0') format('truetype'),
+    url('fonts/icomoon.woff?uxjef0') format('woff'),
+    url('fonts/icomoon.svg?uxjef0#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-line-icons_expanded:before {
+  content: "\e900";
+  color: #808184;
+}
+
+
+/* Ticking Dial Icon */
+.tick {
+  -webkit-animation: tick steps(4) 2s infinite normal;
+  -moz-animation: tick steps(4) 2s infinite normal;
+  -o-animation: tick steps(4) 2s infinite normal;
+  animation: tick steps(4) 2s infinite normal;
+}
+
+@-moz-keyframes tick { 100% { -moz-transform: rotate(360deg); } }
+
+@-webkit-keyframes tick { 100% { -webkit-transform: rotate(360deg); } }
+
+@keyframes tick { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
