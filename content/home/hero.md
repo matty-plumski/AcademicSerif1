@@ -24,7 +24,7 @@ weight = 10  # Order that this section will appear.
   # gradient_end = "#2b94c3"
   
   # Background image.
-  image = "connected.png"  # Name of image in `static/media/`.
+  image = "floppy.jpg"  # Name of image in `static/media/`.
    image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
    image_size = "cover"  
    # Options are `cover` (default), `contain`, or `actual` size.
@@ -55,4 +55,7 @@ weight = 10  # Order that this section will appear.
 
 
 
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+<span style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Image: Bogdan Dreava</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+
+# https://thenounproject.com/bdreava/
+
