@@ -22,12 +22,12 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-    name = "All"
+    name = "Everything"
     tag = "*"
   
   [[content.filter_button]]
     name = "Technology"
-    tag = "Deep Learning"
+    tag = "resbaz"
 
   [[content.filter_button]]
     name = "Open Source"
@@ -36,6 +36,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Other"
     tag = "Demo"
+
+  [[content.filter_button]]
+    name = "Something else"
+    tag = "Demo 2"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
