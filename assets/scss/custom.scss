@@ -2,6 +2,12 @@ h1, h2, h3, h4 {
     text-transform: uppercase;
 }
 
+/* test drop shadow */
+
+h1, {
+  text-shadow: 0.05em 0.075em 0 rgba(0, 0, 0, 0.1);
+}
+
 h3 {
   font-family: "Averia Serif Libre";
   font-weight: 400;
